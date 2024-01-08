@@ -23,6 +23,7 @@ You can check any examples projects that use this module under `examples` direct
 
 - namespace-1-basic
 - namespace-2-resource-quota
+- namespace-3-multiple-matchexpression-resource-quota
 
 ## C. Understanding tfvars scenarios
 
@@ -30,6 +31,7 @@ You can check any examples tfvars that use this module under `examples` director
 
 - namespace-1-basic
 - namespace-2-resource-quota
+- namespace-3-multiple-matchexpression-resource-quota
 
 ## D. Ensuring quality
 
